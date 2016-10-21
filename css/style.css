@@ -1,0 +1,51 @@
+.home_container{
+    margin:0px;
+    padding:0px;
+    height:100vh;
+    width:100vw;
+    background-image:url(../images/bridge.gif);
+    background-size: 100vw 100vh;
+    
+}
+.home_bg{
+ position:absolute;
+ left:40%;
+ top:35%;
+ transform: translate(-50,-50);
+ color:white;
+ font-size: 2.5em;
+ text-align:center;
+}
+
+.wrapper{
+    position:relative;
+}
+#jasil_image{
+ border-radius:150px;
+ margin:0 auto;
+}
+.social_contacts img{
+    width:64px;
+    height:64px;
+}
+.about_me{
+    margin:20px;
+}
+.projects{
+   width:100%;
+    margin-left:20px;
+    margin-right:20px;
+}
+.even_align{
+    float:right;
+}
+
+.project_description{
+    margin:5px 0 5px 0;
+    padding:5px 0 5px 0;
+}
+.project_image{
+    border-radius:2%;
+    border:2px solid grey;
+    box-shadow: 4px 5px 10px 2px grey;
+}
